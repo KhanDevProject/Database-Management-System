@@ -1,5 +1,6 @@
 # Database-Management-System Application 
-# Developed using Python and several latest technologies and modules 
+
+→ Developed using Python and several latest technologies and modules 
 
 → DBMS focused on allowing users to store, manage, and manipulate large volumes of data efficiently and securely. 
 
