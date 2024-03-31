@@ -3,7 +3,7 @@
 To run the program(s):
 * Download the repo
 * Ensure you have python 2 or 3 and all of the modules installed
-* Run python[x] Database_Project.py, where x can either be "" (nothing) or 3 (python 3)
+* Run python[x] `Database_Project.py`, where x can either be "" (nothing) or 3 (python 3)
 * Enjoy!
 
 # About the Application  
