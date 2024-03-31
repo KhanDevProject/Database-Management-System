@@ -6,6 +6,8 @@ To run the program(s):
 * Run python[x] Database_Project.py, where x can either be "" (nothing) or 3 (python 3)
 * Enjoy!
 
+# About the Application  
+
 → Developed using Python and several latest technologies and modules 
 
 → DBMS focused on allowing users to store, manage, and manipulate large volumes of data efficiently and securely. 
