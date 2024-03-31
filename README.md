@@ -1,10 +1,10 @@
 # Database-Management-System Application 
 
 To run the program(s):
-	• Download the repo
-	• Ensure you have python 2 or 3 installed
-	• Run python[x] Database_Project.py, where x can either be "" (nothing) or 3 (python 3)
-	• Enjoy!
+* Download the repo
+* Ensure you have python 2 or 3 installed
+* Run python[x] Database_Project.py, where x can either be "" (nothing) or 3 (python 3)
+* Enjoy!
 
 → Developed using Python and several latest technologies and modules 
 
